@@ -1,0 +1,1 @@
+https://awardsdatabase.oscars.org/search/getresults?query=%7B%22Sort%22%3A%223-Award%20Category-Chron%22%2C%22AwardCategory%22%3A%5B%226%22%5D%2C%22AwardShowNumberFrom%22%3A74%2C%22AwardShowNumberTo%22%3A94%2C%22Search%22%3A30%7D
