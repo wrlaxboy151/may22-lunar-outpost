@@ -13,4 +13,17 @@ The goal of our project is to create a model that can 'predict' whether an anima
 
 **Stakeholders/Kpi's**
 
-# Dataset
+# Data Collection 
+We collected our information about the animated movies from the Internet Movie Database (IMDb). In IMDb every movie, person, and company has a unique imdb id. Associated with this imdb id is a host of information that we use. Our 'dataset' consists of a combination of data collected from the IMDb website using both web scraping and Cinemagoer Python package. We describe the data collection and the dataset below. 
+
+## IMDb Data for All Animated Films
+
+## IMDb Data for Casts
+
+## IMDb Data for Production Companies
+
+## IMDb Data for Nominees
+
+## IMDb Data for Distributors
+
+## IMDb Data for Producers and Directors
