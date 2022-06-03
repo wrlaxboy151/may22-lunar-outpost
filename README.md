@@ -11,19 +11,13 @@ The Academy Award for "Best Animated Feature Film", first introduced at the 74th
 
 The goal of our project is to create a model that can 'predict' whether an animated film will be nominated for Best Animated Feature Film or not.
 
-**Stakeholders/Kpi's**
-
 # Data Collection 
-We collected our information about the animated movies from the Internet Movie Database (IMDb). In IMDb every movie, person, and company has a unique imdb id. Associated with this imdb id is a host of information that we use. Our 'dataset' consists of a combination of data collected from the IMDb website using both web scraping and Cinemagoer Python package. We describe the data collection and the dataset below. 
+We collected our information about the animated movies from the Internet Movie Database (IMDb). In IMDb every movie, person, and company has a unique imdb id. Associated with this imdb id is a host of information that we use. Our 'dataset' consists of a combination of data collected from the IMDb website using both web scraping and Cinemagoer Python package. A detailed description of the dataset is available in the file [Dataset Description](https://github.com/wrlaxboy151/may22-lunar-outpost/blob/main/Dataset%20Description.docx)
 
-## IMDb Data for All Animated Films
+## IMDb IDs for Animated Films
 
-## IMDb Data for Casts
+## IMDb Movie Data
 
-## IMDb Data for Production Companies
+## Nominees Ids
 
-## IMDb Data for Nominees
 
-## IMDb Data for Distributors
-
-## IMDb Data for Producers and Directors
