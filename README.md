@@ -16,4 +16,6 @@ We collected our information about the animated movies from the Internet Movie D
 
 The files for data, data collection, exploratory data analysis, feature engineering, and the models are located in the following folders [Data](https://github.com/wrlaxboy151/may22-lunar-outpost/tree/main/Data), [Data_Scraping](https://github.com/wrlaxboy151/may22-lunar-outpost/tree/main/Data_Scraping), [EDA](https://github.com/wrlaxboy151/may22-lunar-outpost/tree/main/EDA), FE, and Modeling respectively.
 
+[**Final Model**](https://github.com/wrlaxboy151/may22-lunar-outpost/blob/main/model5.ipynb) is located Modeling
+
 
