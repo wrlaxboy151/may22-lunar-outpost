@@ -14,8 +14,6 @@ The goal of our project is to create a model that can 'predict' whether an anima
 # Data Collection 
 We collected our information about the animated movies from the Internet Movie Database (IMDb). In IMDb every movie, person, and company has a unique imdb id. Associated with this imdb id is a host of information that we use. Our 'dataset' consists of a combination of data collected from the IMDb website using both web scraping and Cinemagoer Python package. A detailed description of the dataset is available in the file [Dataset Description](https://github.com/wrlaxboy151/may22-lunar-outpost/blob/main/Dataset%20Description.docx)
 
-The files for data, data collection, exploratory data analysis, feature engineering, and the models are located in the following folders [Data](https://github.com/wrlaxboy151/may22-lunar-outpost/tree/main/Data), [Data_Scraping](https://github.com/wrlaxboy151/may22-lunar-outpost/tree/main/Data_Scraping), [EDA](https://github.com/wrlaxboy151/may22-lunar-outpost/tree/main/EDA), FE, and Modeling respectively.
-
-[**Final Model**](https://github.com/wrlaxboy151/may22-lunar-outpost/blob/main/model5.ipynb) is located Modeling
+[**Final Model**](https://github.com/wrlaxboy151/may22-lunar-outpost/blob/main/model5.ipynb) 
 
 
