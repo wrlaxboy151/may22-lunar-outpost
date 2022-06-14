@@ -2,7 +2,7 @@
 
 # Team Members: 
 1. [Charles D Ruggiero](https://github.com/ruggiec)
-2. [Nathan Schley](https://github.com/Finer-Things)
+2. [Nathan S.](https://github.com/Finer-Things)
 3. [Sheri Tamagawa](https://github.com/sktamagaw)
 4. [William Reese](https://github.com/wrlaxboy151)
 
